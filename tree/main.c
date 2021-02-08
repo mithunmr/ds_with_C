@@ -8,7 +8,7 @@ struct node{
 };
 
 struct node * root = NULL;
-
+//fuck u shahid
 void insert(){
     struct node *t, *currentNode, *parentNode;
     int d;
